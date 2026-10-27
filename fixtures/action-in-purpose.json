@@ -1,0 +1,9 @@
+{
+  "action_type": "read",
+  "agent_ref": "agt_5577adaab56eef95",
+  "counterparty_class": "allowlisted",
+  "record_id": "act-fixture-001",
+  "resource_class": "fixture-data",
+  "ts": "2026-06-01T00:00:00Z",
+  "value_class": "test"
+}

@@ -1,0 +1,29 @@
+{
+  "config": {
+    "name": "fixture-agent",
+    "temperature": 0,
+    "tools": [
+      "read",
+      "write"
+    ]
+  },
+  "config_hash": "37fa096dec869db81f980fb80cbdbfacaea6dc99c30958b82d3293e77c7cfa3e",
+  "creator_ref": "304e92e2519e873e57c6e8ae94e207e8f4caf556958ccd8f1de1975d33e82ef5",
+  "creator_signature": "51a0d832f398e27f7907e238f55285675f2315c833bbbe998e2bde1acc216c71",
+  "expires_at": "2027-01-01T00:00:00Z",
+  "model_ref": "model-fixture-001",
+  "now": "2026-01-01T00:00:00Z",
+  "purpose_scope": {
+    "action_types": [
+      "read",
+      "write"
+    ],
+    "counterparty_classes": [
+      "allowlisted"
+    ],
+    "max_value_class": "test",
+    "resource_classes": [
+      "fixture-data"
+    ]
+  }
+}
